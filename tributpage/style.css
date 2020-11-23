@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+#title {
+    color: white;
+    position: relative;
+    bottom: 60px;   
+    text-align: center;
+    margin-top: 10%;
+    padding-bottom: 4%;
+    font-size: 60px;
+    font-family: anton;
+    text-decoration: underline;
+}
+
+#undertitle {
+    font-family: syne mono;
+    text-decoration: none;
+}
+
+h1{
+    font-size: 60%;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+a {
+    position: relative;
+    color: white;
+    left: 700px;
+    top: 80px; 
+}
+
+#img-div {
+    display: flex;
+    justify-content: center;
+}
+
+.image {
+    margin: auto;
+    width: 50%;
+    
+}
+
+#tribute-info {
+    font-family: syne mono;
+    color: white;
+    margin: auto;
+    margin-bottom: 70px;
+    width: 80%;
+}
+
+#tribute-info-1 {
+    font-family: syne mono;
+    color: white; 
+    max-width: 80%;
+    margin: auto ;
+    margin-top: 70px;
+}
+
+#list-of-plays {
+    font-family: syne mono;
+    color: white; 
+    max-width: 80%;
+    margin: auto ;
+    margin-top: 4%;
+}
+
+#act {
+    margin-top: 50px;
+}
+
+a{
+    margin: auto;
+    text-align: center;
+    margin-bottom: 50px;
+    padding-bottom: 100px;
+}
